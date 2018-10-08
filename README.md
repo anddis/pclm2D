@@ -11,6 +11,6 @@ The Mata functions `diff_R()`,  `MortSmooth_tpower_R()` and `MortSmooth_bbase_R(
 Please, don't forget to cite the original sources if you use the code in this repository.
 ---
 
-<img src="https://raw.githubusercontent.com/pclm2D/figure1.png" vspace="6">
-<img src="https://raw.githubusercontent.com/pclm2D/figure2.png" vspace="6">
-<img src="https://raw.githubusercontent.com/pclm2D/figure3.png" vspace="6">
+<img src="https://raw.githubusercontent.com/anddis/pclm2D/master/figure1.png" vspace="6">
+<img src="https://raw.githubusercontent.com/anddis/pclm2D/master/figure2.png" vspace="6">
+<img src="https://raw.githubusercontent.com/anddis/pclm2D/master/figure3.png" vspace="6">
