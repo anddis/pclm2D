@@ -1,5 +1,5 @@
 /*
-This file contains code that tranlates into Stata/Mata language the original R code presented in the appendix of the following paper:
+The code contained in this file is a translation into Stata/Mata language of the original R code presented in the appendix of the following paper:
 
 Rizzi, S., Halekoh, U., Thinggaard, M., Engholm, G., Christensen, N., Johannesen, T. B., & Lindahl-Jacobsen, R. (2018). **How to estimate mortality trends from grouped vital statistics**. _International journal of epidemiology._ [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/30256946)
 */
@@ -159,4 +159,4 @@ tw (line log_gamma50-log_gamma59 year, lc(`lc' `lc') lp(`lp' `lp') lw(`lw' ..)) 
 	
 graph combine  fig3a fig3b,  graphr(col(white) margin(1 2 1 1)) name(fig3, replace)
 graph export "figure3.png", width(1000) replace
-
+drop obs_log_rate50-obs_log_rate75 log_gamma50-log_gamma75
