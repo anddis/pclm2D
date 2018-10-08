@@ -9,6 +9,7 @@ Rizzi, S., Halekoh, U., Thinggaard, M., Engholm, G., Christensen, N., Johannesen
 The Mata functions `diff_R()`,  `MortSmooth_tpower_R()` and `MortSmooth_bbase_R()` are based on R functions available from R base and from the [MortalitySmooth package](https://cran.r-project.org/web/packages/MortalitySmooth/MortalitySmooth.pdf) (CRAN) by Carlo G. Camarda.
 
 Please, don't forget to cite the original sources if you use the code in this repository.
+
 ---
 
 <img src="https://raw.githubusercontent.com/anddis/pclm2D/master/figure1.png" vspace="6">
